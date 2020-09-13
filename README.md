@@ -7,7 +7,7 @@
 🌱 I'm on track for learning more about Android Automotive, Mobile Programming.\
 ✍️ In my free time, I pursue improve my technical skill and do some side project for fun.\
 💬 Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
-✉️ You can shoot me an email at doanhlv@outlook.com! I'll try to respond as soon as I can.\
+✉️ You can shoot me an email at doanhlv@outlook.com! I'll try to respond as soon as I can.
 <!--
 📄 Please have a look at my [Résumé]() for more details about me. I'm open to feedback and suggestions!
 -->
